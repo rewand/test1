@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 lobo feliz
 lobo triste
 lobo con hambre
 lobo chuchas
+=======
+lobo feliz
+>>>>>>> parent of b245ed1 (archivo3.1)
