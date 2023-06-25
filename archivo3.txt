@@ -1,2 +1,3 @@
 lobo feliz
 lobo triste
+lobo con hambre
